@@ -1,0 +1,33 @@
+Microsoft Visual Studio 2010.lnk
+Git Bash.lnk
+IDLE (Python GUI).lnk
+VMware Player.lnk
+MATLAB R2010a.lnk
+NetBeans IDE 7.0.1.lnk
+AnaMaker.exe
+Adobe Flash Builder 4.lnk
+Fireworks.lnk
+JPGVideo.lnk
+Vegas Movie Studio.lnk
+Illustrator.lnk
+GIMP2.lnk
+After Effects.lnk
+Photoshop.bat
+Dreamweaver.bat
+AdobeAudition3.lnk
+ToonBoom.lnk
+Flash.bat
+Maya.lnk
+FileZilla.lnk
+Wireshark.lnk
+mIRC.lnk
+Google Earth.lnk
+StrongDC.lnk
+WebcamMax.lnk
+Everest.lnk
+Encrypt Files.lnk
+Bulk Image Resizer.lnk
+YouTube Downloader.lnk
+SpeedFan.lnk
+Nero StartSmart.lnk
+AMR to MP3 Converter.lnk
